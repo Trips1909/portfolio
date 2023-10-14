@@ -22,8 +22,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                Seethamdhara <br />
-                Vizag,Andhra Pradesh
+                New Delhi <br />
+                
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -31,7 +31,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                hemu3603@gmail.com
+                trips20641@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
